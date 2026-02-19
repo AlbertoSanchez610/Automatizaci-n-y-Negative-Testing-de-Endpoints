@@ -1,4 +1,4 @@
-# Automatizaci-n-y-Negative-Testing-de-Endpoints
+# Automatización-y-Negative-Testing-de-Endpoints
 ● Realización de pruebas funcionales en los flujos de “Estado del pedido” y “Inventario de los artículos”, asegurando una respuesta del servidor menos a 500ms
 
 ● Verificación del correcto manejo de códigos (200, 400, 402, 500) para garantizar que la app no colapsara ante entradas de datos invalidos.
